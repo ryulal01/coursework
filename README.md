@@ -1,5 +1,4 @@
-# coursework
-
+# Development of Materials for Teaching Programming in Python (coursework)
 
 #### План работы (6 тем):
 
